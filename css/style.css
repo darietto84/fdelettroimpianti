@@ -22,8 +22,8 @@ header nav a {
 .hero {
   text-align: center;
   padding: 80px 20px;
-  background: #f4f6f7;
-  color: #080808;
+  background: white;
+  color: black;
 }
 
 .cta-btn {
