@@ -52,3 +52,16 @@ footer {
   border: 2px solid #0033ff;
   font-weight: bold;
 }
+
+.freccia {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  font-size: 2em;
+  color: blue;
+  text-decoration: none;
+}
+
+.freccia:hover {
+  color: red;
+}
