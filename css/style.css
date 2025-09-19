@@ -88,3 +88,17 @@ header nav a {
   border-color: #007bff;
   font-weight: bold;
 }
+/* Freccia torna indietro */
+.back-arrow {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  font-size: 1.5rem;
+  color: blue;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.back-arrow:hover {
+  color: red;
+}
